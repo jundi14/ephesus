@@ -6,7 +6,7 @@ description: >-
   Ephesus - Minimalist Jekyll Theme
 lang: en-US
 timezone:  Europe/Istanbul
-#repo: https://github.com/onepase/Ephesus # site repo [optional]
+repo: https://github.com/onepase/Ephesus # site repo [optional]
 #discus-identifier:  XXX
 
 # Author settings

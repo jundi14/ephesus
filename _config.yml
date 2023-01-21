@@ -26,8 +26,8 @@ author:
 
 
 # URL settings
-url: "https://jundi14.github.io/ephesus/"
-permalink: pretty
+-url: "https://jundi14.github.io/ephesus/"
+ permalink: pretty
 
 markdown: kramdown
 kramdown:
